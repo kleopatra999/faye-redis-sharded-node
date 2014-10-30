@@ -9,14 +9,14 @@
   },
   "main":"./index",
   "dependencies":{
-    "redis":"0.8.x"
+    "redis":"0.12.x"
   },
   "licenses":[{
     "type":"MIT",
     "url":"http://www.opensource.org/licenses/mit-license.php"
   }],
-  "repositories":[{
+  "repository":{
     "type":"git",
     "url":"git@github.com:myspace/faye-redis-sharded-node.git"
-  }]
+  }
 }
